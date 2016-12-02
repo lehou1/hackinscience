@@ -1,2 +1,2 @@
 #!/bin/usr/python
-print(005)
+print("005")
