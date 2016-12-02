@@ -1,2 +1,2 @@
-#! /bin/usr/python
+#!/bin/usr/python
 print(Hello world)
