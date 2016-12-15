@@ -1,4 +1,4 @@
 #!/usr/bin/pythonprint
-x = "Hello World!"
-for in in x:
+slt = "Hello World!"
+for in in slt:
     print(i)
