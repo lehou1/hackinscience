@@ -1,4 +1,4 @@
 #!/usr/bin/pythonprint
-hey = "Hello World!"
+hey = "Hello World !"
 for in in hey:
     print(i)
