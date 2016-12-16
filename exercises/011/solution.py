@@ -1,4 +1,4 @@
 #!/usr/bin/pythonprint
-try = [1,101]
+try = (1,101)
 for i try
 	print(Hello World)
