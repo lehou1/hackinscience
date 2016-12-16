@@ -1,4 +1,3 @@
 #!/usr/bin/pythonprint
-ahah = (1,101)
-for i in ahah
-	print(Hello World)
+for i in range of [1,101]
+    print(Hello World)
